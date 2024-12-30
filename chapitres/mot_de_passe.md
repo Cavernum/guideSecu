@@ -38,7 +38,7 @@ Les mots de passe sont la première ligne de défense contre les cyberattaques. 
 
 ---
 
-### **Résumé des bonnes pratiques :**
+#### **Résumé des bonnes pratiques :**
 
 1. **Créez des mots de passe longs et complexes** : Minimum 12 caractères, avec une combinaison de lettres, chiffres et symboles.
 2. **Ne réutilisez pas vos mots de passe** : Utilisez des mots de passe uniques pour chaque service.
@@ -50,6 +50,6 @@ Les mots de passe sont la première ligne de défense contre les cyberattaques. 
 
 ---
 
-### Conclusion
+#### Conclusion
 
 La gestion des mots de passe est un élément fondamental de la cybersécurité. En appliquant ces bonnes pratiques, vous protégez vos données sensibles contre les attaques et vous réduisez les risques de compromission. N'oubliez pas que la sécurité commence par des mots de passe solides, et qu'il est essentiel d'utiliser des outils adaptés pour les gérer et les protéger efficacement.
