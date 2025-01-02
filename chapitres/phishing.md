@@ -1,15 +1,12 @@
+### 7. **Prévenir et détecter les attaques de phishing**
 
-# Guide de Cybersécurité pour les Avocats Professionnels
-
-## 14. Prévenir et détecter les attaques de phishing
-
-### Pourquoi le phishing est-il dangereux ?
+#### Pourquoi le phishing est-il dangereux ?
 
 Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces, car il cible directement les utilisateurs en les incitant à révéler leurs informations sensibles, comme leurs mots de passe, coordonnées bancaires, ou autres données confidentielles. Les avocats sont particulièrement ciblés en raison de la nature sensible des informations qu'ils traitent. Les attaques de phishing peuvent se présenter sous forme d'emails, de messages instantanés, ou même d'appels téléphoniques.
 
 ---
 
-### Bonnes pratiques pour prévenir le phishing
+#### Bonnes pratiques pour prévenir le phishing
 
 1. **Méfiez-vous des emails suspects**
    - **Vérifiez l'expéditeur** : Assurez-vous que l'adresse email de l'expéditeur est légitime. Par exemple, un email prétendant venir d'une banque pourrait utiliser une adresse légèrement modifiée comme `support@bnk.com` au lieu de `support@bank.com`.
@@ -33,7 +30,7 @@ Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces
 
 ---
 
-### Comment détecter les signes d'une tentative de phishing ?
+#### Comment détecter les signes d'une tentative de phishing ?
 
 1. **Anomalies dans les emails**
    - **Erreurs de grammaire et d'orthographe** : Les emails de phishing contiennent souvent des fautes qui ne se trouvent pas dans les communications officielles.
@@ -50,7 +47,7 @@ Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces
 
 ---
 
-### Que faire si vous suspectez une tentative de phishing ?
+#### Que faire si vous suspectez une tentative de phishing ?
 
 1. **Ne cliquez pas et ne répondez pas**
    - Si vous recevez un email suspect, ne cliquez sur aucun lien et ne répondez pas. Cela peut confirmer aux attaquants que votre email est actif et vous exposer à d'autres menaces.
@@ -67,7 +64,7 @@ Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces
 
 ---
 
-### Éducation et sensibilisation pour éviter le phishing
+#### Éducation et sensibilisation pour éviter le phishing
 
 1. **Formez votre équipe**
    - Organisez des sessions de sensibilisation pour informer votre équipe sur les menaces de phishing et leur apprendre à les détecter.
@@ -78,6 +75,6 @@ Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces
 
 ---
 
-### Conclusion
+#### Conclusion
 
 Les attaques de phishing représentent une menace constante, mais avec une vigilance accrue et les bonnes pratiques décrites ci-dessus, vous pouvez les prévenir efficacement. Protéger vos informations sensibles et celles de vos clients passe par l’éducation, l’utilisation d’outils adaptés, et une réaction rapide face aux menaces potentielles.
