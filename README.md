@@ -79,3 +79,5 @@ The world of cybersecurity is constantly evolving, so staying informed about new
 ## License
 
 This guide is provided under the **Creative Commons Attribution-NoDerivatives 4.0 International License**. You are free to share, use, and distribute the contents of this guide, but you may not modify it in any way. For full license details, please see [LICENSE](./LICENSE).
+
+For any need of remix, please contact
