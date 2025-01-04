@@ -1,13 +1,12 @@
 SRC_DIR = src
 OUTPUT = main.pdf
 MAIN_FILE = $(SRC_DIR)/main.md
-
-.PHONY: all clean
+TEMPLATE = eisvogel.latex
 
 all: $(OUTPUT)
 
 $(OUTPUT): $(MAIN_FILE)
-	pandoc --filter pandoc-include -o $(OUTPUT) $(MAIN_FILE)
+	pandoc $(MAIN_FILE) --filter pandoc-include --template=$(TEMPLATE) -o $(OUTPUT)
 
 clean:
 	rm -f $(OUTPUT)
