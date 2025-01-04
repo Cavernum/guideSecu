@@ -21,7 +21,6 @@ urlcolor: cyan
 titlepage: true
 titlepage-rule-color: 89b4fa
 titlepage-background: ./background.png
-titlepage-background-size: contain
 titlepage-text-color: "000000"
 page-background: ./background.png
 
@@ -32,9 +31,6 @@ abstract-title: Introduction
 abstract: |
   Guide d'introduction à l'hygiène numérique de base dans le monde professsionnel
 ---
-<!--
-!include ./sommaire.md
--->
 
 !include ./introduction.md
 
