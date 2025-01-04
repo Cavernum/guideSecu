@@ -1,11 +1,10 @@
+# 2. **Sécuriser vos mots de passe**
 
-### 2. **Sécuriser vos mots de passe**
-
-#### **Pourquoi sécuriser vos mots de passe ?**
+## **Pourquoi sécuriser vos mots de passe ?**
 
 Les mots de passe sont la première ligne de défense contre les cyberattaques. Ils sont utilisés pour protéger l'accès à vos systèmes, vos documents sensibles, vos comptes en ligne et vos outils professionnels. Un mot de passe faible ou compromis peut permettre à un cybercriminel d'accéder à vos données personnelles et professionnelles. Il est donc essentiel d'utiliser des mots de passe forts et de bien gérer leur sécurité.
 
-#### **Bonnes pratiques pour sécuriser vos mots de passe :**
+## **Bonnes pratiques pour sécuriser vos mots de passe :**
 
 1. **Utilisez des mots de passe longs et complexes**
    - **Longueur et complexité** : Un mot de passe sécurisé doit être composé d'au moins 12 caractères et inclure une combinaison de lettres (majuscule et minuscule), de chiffres et de caractères spéciaux. Plus le mot de passe est long et complexe, plus il est difficile à deviner ou à craquer.
@@ -38,7 +37,7 @@ Les mots de passe sont la première ligne de défense contre les cyberattaques. 
 
 ---
 
-#### **Résumé des bonnes pratiques :**
+## **Résumé des bonnes pratiques :**
 
 1. **Créez des mots de passe longs et complexes** : Minimum 12 caractères, avec une combinaison de lettres, chiffres et symboles.
 2. **Ne réutilisez pas vos mots de passe** : Utilisez des mots de passe uniques pour chaque service.
@@ -50,6 +49,6 @@ Les mots de passe sont la première ligne de défense contre les cyberattaques. 
 
 ---
 
-#### Conclusion
+## Conclusion
 
 La gestion des mots de passe est un élément fondamental de la cybersécurité. En appliquant ces bonnes pratiques, vous protégez vos données sensibles contre les attaques et vous réduisez les risques de compromission. N'oubliez pas que la sécurité commence par des mots de passe solides, et qu'il est essentiel d'utiliser des outils adaptés pour les gérer et les protéger efficacement.

@@ -1,12 +1,12 @@
-### 5. **Protéger vos communications par email**
+# 5. **Protéger vos communications par email**
 
-#### Pourquoi sécuriser vos emails ?
+## Pourquoi sécuriser vos emails ?
 
 Les emails sont un moyen de communication central dans le travail d’un avocat, mais ils peuvent être facilement interceptés, piratés ou exploités par des cybercriminels. Les risques incluent le vol de données sensibles, l’usurpation d’identité, ou encore la propagation de logiciels malveillants via des liens ou pièces jointes frauduleuses. Sécuriser vos échanges par email est donc essentiel pour garantir la confidentialité de vos communications avec vos clients et partenaires.
 
 ---
 
-#### Bonnes pratiques pour sécuriser vos emails :
+## Bonnes pratiques pour sécuriser vos emails :
 
 1. Utilisez un service de messagerie sécurisé
 - **ProtonMail** : Optez pour un fournisseur d’email comme **ProtonMail**, qui offre un chiffrement de bout en bout. Cela signifie que seuls vous et le destinataire pouvez lire le contenu de vos messages.
@@ -49,7 +49,7 @@ Les emails sont un moyen de communication central dans le travail d’un avocat,
 
 ---
 
-#### Que faire en cas de problème avec un email ?
+## Que faire en cas de problème avec un email ?
 
 - **Email suspect reçu** : Si vous recevez un email douteux, ne cliquez sur aucun lien, n’ouvrez aucune pièce jointe et signalez-le immédiatement à votre service informatique ou à un spécialiste.
 - **Compte compromis** : Si vous pensez que votre compte email a été piraté, modifiez immédiatement votre mot de passe, déconnectez les sessions actives et avertissez vos interlocuteurs pour éviter une propagation de l’attaque.
@@ -57,6 +57,6 @@ Les emails sont un moyen de communication central dans le travail d’un avocat,
 
 ---
 
-#### Conclusion
+## Conclusion
 
 Protéger vos communications par email est essentiel pour garantir la confidentialité et l’intégrité de vos échanges professionnels. En suivant ces bonnes pratiques, vous réduirez significativement les risques liés aux cyberattaques et renforcerez la sécurité de votre cabinet. Les emails doivent être traités comme des canaux sensibles nécessitant vigilance et précautions constantes.

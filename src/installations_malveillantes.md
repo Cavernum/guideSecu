@@ -1,13 +1,12 @@
+# 4. **Risques d’Installations Malveillantes**
 
-### 4. **Risques d’Installations Malveillantes**
-
-#### Pourquoi se méfier des installations malveillantes ?
+## Pourquoi se méfier des installations malveillantes ?
 
 Les installations malveillantes sont des logiciels (ou malwares) qui peuvent infecter votre ordinateur, voler vos données, ou prendre le contrôle de vos systèmes. Ces logiciels malveillants, tels que les virus, ransomwares, trojans ou spywares, peuvent arriver via des fichiers téléchargés, des pièces jointes d’email, des sites web douteux, ou des périphériques infectés. Une seule installation malveillante peut compromettre l'intégralité de vos données professionnelles et personnelles.
 
 ---
 
-#### Principales voies d'infection par des malwares :
+## Principales voies d'infection par des malwares :
 
 1. **Téléchargements depuis des sites non fiables :** Les logiciels piratés ou téléchargés depuis des plateformes non officielles contiennent souvent des malwares intégrés.
 2. **Pièces jointes dans les emails suspects :** Les fichiers envoyés par des cybercriminels dans des emails de phishing peuvent contenir des virus.
@@ -17,7 +16,7 @@ Les installations malveillantes sont des logiciels (ou malwares) qui peuvent inf
 
 ---
 
-#### Bonnes pratiques pour éviter les installations malveillantes :
+## Bonnes pratiques pour éviter les installations malveillantes :
 
 1. **Téléchargez uniquement depuis des sources fiables :**
    - Ne téléchargez des logiciels qu'à partir des sites officiels des éditeurs ou des magasins d'applications certifiés (Google Play, App Store, Microsoft Store, etc.).
@@ -60,7 +59,7 @@ Les installations malveillantes sont des logiciels (ou malwares) qui peuvent inf
 
 ---
 
-#### Les outils pour renforcer votre sécurité :
+## Les outils pour renforcer votre sécurité :
 
 - **Logiciels de protection avancés :** Bitdefender, Malwarebytes, ESET pour des scans approfondis contre les malwares.
 - **Extensions de sécurité pour navigateurs :** uBlock Origin, qui bloque les sites web malveillants et les scripts suspects.
@@ -68,7 +67,7 @@ Les installations malveillantes sont des logiciels (ou malwares) qui peuvent inf
 
 ---
 
-#### Que faire en cas d'infection ?
+## Que faire en cas d'infection ?
 
 1. **Déconnectez votre appareil du réseau :** Débranchez immédiatement votre ordinateur ou téléphone d'Internet pour limiter la propagation du malware.
 2. **Lancez une analyse complète avec un antivirus :** Utilisez votre logiciel antivirus pour détecter et supprimer les fichiers malveillants.
@@ -77,6 +76,6 @@ Les installations malveillantes sont des logiciels (ou malwares) qui peuvent inf
 
 ---
 
-#### Conclusion
+## Conclusion
 
 Les malwares représentent un risque important pour la sécurité des avocats et de leurs données sensibles. En adoptant ces bonnes pratiques et en sensibilisant votre équipe, vous réduirez considérablement les risques d'infection par des logiciels malveillants. La vigilance et l'utilisation d'outils adaptés sont les clés pour protéger efficacement votre cabinet contre ces menaces.

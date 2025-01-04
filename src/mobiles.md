@@ -1,12 +1,12 @@
-### 8 **Sécurisation des appareils mobiles**
+# 8 **Sécurisation des appareils mobiles**
 
-#### Pourquoi sécuriser vos appareils mobiles ?
+## Pourquoi sécuriser vos appareils mobiles ?
 
 Les appareils mobiles, tels que les smartphones et les tablettes, contiennent souvent des informations sensibles : emails professionnels, documents juridiques, contacts clients, etc. En cas de perte, de vol ou d’attaque, ces appareils peuvent devenir une porte d’entrée pour des cybercriminels. Leur sécurisation est donc essentielle pour protéger vos données et celles de vos clients.
 
 ---
 
-#### Bonnes pratiques pour sécuriser vos appareils mobiles :
+## Bonnes pratiques pour sécuriser vos appareils mobiles :
 
 1. **Protégez l’accès à vos appareils**
    - **Activez le verrouillage de l’écran** : Configurez un mot de passe, un code PIN, une empreinte digitale ou la reconnaissance faciale pour accéder à votre téléphone. Un code PIN doit être complexe et contenir au moins 6 chiffres.
@@ -56,7 +56,7 @@ Les appareils mobiles, tels que les smartphones et les tablettes, contiennent so
 
 ---
 
-#### Exemple concret : Que faire si votre appareil est perdu ou volé ?
+## Exemple concret : Que faire si votre appareil est perdu ou volé ?
 1. **Localisez l’appareil** : Utilisez les outils de localisation pour tenter de retrouver l’appareil.
 2. **Modifiez vos mots de passe** : Changez immédiatement les mots de passe de vos comptes importants (email, applications juridiques, cloud).
 3. **Effacez les données à distance** : Si vous ne pouvez pas récupérer l’appareil, utilisez les outils de suppression à distance pour effacer toutes les données.
@@ -64,6 +64,6 @@ Les appareils mobiles, tels que les smartphones et les tablettes, contiennent so
 
 ---
 
-#### Conclusion
+## Conclusion
 
 La sécurisation de vos appareils mobiles est un élément clé pour protéger les données sensibles que vous manipulez. En appliquant ces bonnes pratiques, vous pouvez réduire les risques liés au vol, à la perte ou aux cyberattaques et travailler en toute sérénité, même lorsque vous êtes en déplacement.

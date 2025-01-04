@@ -1,12 +1,9 @@
 ---
-title:    <!-- WRITE TITLE HERE -->
-subtitle: <!-- WRITE SUBTITLE HERE -->
+title: Guide de la Cybersécurité
+subtitle: Destinataire
 author: 
-  <!--
-    WRITE AUTHORS HERE
-    list or { name, affiliation }
-  -->
-date: <!-- WRITE DATE HERE -->
+  zkBolo
+date: janvier 2025
 lang: fr-FR
 
 note_type: reference
@@ -33,6 +30,7 @@ abstract-title: Introduction
 abstract: |
   <!-- ABSTRACT HERE -->
 ---
-
+<!--
 !include ./sommaire.md
+-->
 

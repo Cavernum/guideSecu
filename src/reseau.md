@@ -1,10 +1,10 @@
-### 11. **Protéger votre réseau et votre connexion Internet**
+# 11. **Protéger votre réseau et votre connexion Internet**
 
 Votre réseau Internet est la porte d'entrée vers vos appareils et vos données. Une connexion non sécurisée peut permettre à des cybercriminels de voler des informations, d'installer des logiciels malveillants ou de perturber vos activités. Voici comment renforcer la sécurité de votre réseau et de votre connexion Internet.
 
 ---
 
-#### Bonnes pratiques pour sécuriser votre réseau :
+## Bonnes pratiques pour sécuriser votre réseau :
 
 1. **Sécurisez votre réseau Wi-Fi**
 
@@ -51,5 +51,6 @@ Votre réseau Internet est la porte d'entrée vers vos appareils et vos données
 
 ---
 
-#### Conclusion
+## Conclusion
+
 Protéger votre réseau et votre connexion Internet est une étape fondamentale pour sécuriser vos données. Ces mesures simples, comme le chiffrement de votre Wi-Fi, l'utilisation d'un VPN, et la surveillance des connexions, peuvent faire une grande différence pour protéger vos informations contre les cyberattaques.

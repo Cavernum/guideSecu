@@ -1,12 +1,11 @@
+# 9. **Surfer en toute sécurité : Protéger votre navigation Internet**
 
-### 9. **Surfer en toute sécurité : Protéger votre navigation Internet**
-
-#### Pourquoi protéger votre navigation ?  
+## Pourquoi protéger votre navigation ?  
 Votre activité en ligne peut être exploitée par des cybercriminels pour voler vos informations, installer des malwares ou surveiller vos activités. Une navigation sécurisée est essentielle pour garantir la confidentialité et l'intégrité des données sensibles que vous consultez ou partagez en ligne. 
 
 ---
 
-#### Bonnes pratiques pour sécuriser votre navigation :
+## Bonnes pratiques pour sécuriser votre navigation :
 
 1. **Utilisez un VPN (Virtual Private Network)**  
    Un VPN chiffre votre connexion Internet, empêchant les attaquants de surveiller ou d'intercepter vos activités, en particulier sur des réseaux Wi-Fi publics. Préférez des VPN réputés, comme ProtonVPN ou NordVPN, qui respectent la confidentialité des utilisateurs.
@@ -49,7 +48,7 @@ Votre activité en ligne peut être exploitée par des cybercriminels pour voler
 
 ---
 
-#### Outils recommandés pour une navigation sécurisée :  
+## Outils recommandés pour une navigation sécurisée :  
 - **VPN** : ProtonVPN, NordVPN, ExpressVPN.  
 - **Navigateurs sécurisés** : Firefox (avec extensions de sécurité), Brave, Tor Browser.  
 - **Bloqueurs de publicités et trackers** : uBlock Origin, Privacy Badger.  

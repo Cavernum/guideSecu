@@ -1,19 +1,18 @@
+# 6. **Utilisation d'applications de messagerie chiffrée**
 
-### 6. **Utilisation d'applications de messagerie chiffrée**
-
-#### Pourquoi utiliser une messagerie chiffrée ?
+## Pourquoi utiliser une messagerie chiffrée ?
 
 Les échanges par messagerie contiennent souvent des informations sensibles, notamment des discussions relatives à des affaires juridiques ou des données personnelles de vos clients. Une messagerie classique peut être vulnérable à des interceptions ou des piratages. En utilisant une application de messagerie chiffrée, vous garantissez la confidentialité et la sécurité de vos communications.
 
 ---
 
-#### Qu’est-ce que le chiffrement de bout en bout ?
+## Qu’est-ce que le chiffrement de bout en bout ?
 
 Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinataire peuvent lire les messages. Les données sont chiffrées avant d’être envoyées et ne peuvent être déchiffrées que par la clé détenue par le destinataire. Cela empêche toute interception par des tiers, y compris le fournisseur de service.
 
 ---
 
-#### Applications recommandées pour les avocats :
+## Applications recommandées pour les avocats :
 
 1. **Signal** :
    - Chiffrement de bout en bout par défaut.
@@ -38,7 +37,7 @@ Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinat
 
 ---
 
-#### Bonnes pratiques pour l’utilisation de messageries chiffrées :
+## Bonnes pratiques pour l’utilisation de messageries chiffrées :
 
 1. **Utilisez des applications chiffrées pour les communications sensibles** :
    - Préférez une messagerie chiffrée pour tout échange contenant des informations confidentielles, comme des documents juridiques, des coordonnées bancaires ou des avis professionnels.
@@ -62,7 +61,7 @@ Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinat
 
 ---
 
-#### Avantages et limites des messageries chiffrées :
+## Avantages et limites des messageries chiffrées :
 
 | **Avantages**                                           | **Limites**                                                      |
 |---------------------------------------------------------|------------------------------------------------------------------|
@@ -73,6 +72,6 @@ Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinat
 
 ---
 
-#### Conclusion
+## Conclusion
 
 Adopter une messagerie chiffrée est une étape essentielle pour sécuriser vos communications professionnelles en tant qu’avocat. En suivant ces bonnes pratiques, vous réduirez les risques de fuite d’informations et protégerez efficacement la confidentialité de vos échanges avec vos clients et collègues. Optez pour une application adaptée à vos besoins, sensibilisez vos interlocuteurs et sécurisez vos appareils pour garantir une utilisation optimale.

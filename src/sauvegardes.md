@@ -1,17 +1,18 @@
-### 9. **L’importance des sauvegardes et de la gestion des données**
+# 9. **L’importance des sauvegardes et de la gestion des données**
 
-#### Pourquoi les sauvegardes sont essentielles ?
+## Pourquoi les sauvegardes sont essentielles ?
 
 Les sauvegardes protègent vos données contre les pertes accidentelles, les pannes matérielles, ou les attaques malveillantes telles que les ransomwares. En tant qu’avocat, perdre vos données peut signifier la perte d’informations sensibles concernant vos clients, des dossiers juridiques cruciaux, ou des preuves électroniques.
 
-#### Risques en cas d’absence de sauvegardes :
+## Risques en cas d’absence de sauvegardes :
+
 - **Perte irréversible de données** : En cas d’attaque par ransomware ou de panne matérielle, vos données pourraient être définitivement perdues.
 - **Interruption d’activité** : Un cabinet d’avocats sans accès à ses fichiers ne peut pas fonctionner efficacement, ce qui peut causer des retards ou des pertes de clients.
 - **Atteinte à la réputation** : L’incapacité à protéger ou récupérer des données pourrait nuire à votre image professionnelle.
 
 ---
 
-#### Bonnes pratiques pour les sauvegardes :
+## Bonnes pratiques pour les sauvegardes :
 
 1. **Utilisez la règle du 3-2-1 :**
    - **3 copies de vos données** : Conservez une copie de travail et deux copies de sauvegarde.
@@ -34,7 +35,7 @@ Les sauvegardes protègent vos données contre les pertes accidentelles, les pan
 
 ---
 
-#### Gestion des données :
+## Gestion des données :
 
 1. **Classez et organisez vos fichiers :**
    - Rangez vos données de manière systématique, en séparant les informations confidentielles, les archives, et les fichiers actifs.
@@ -50,7 +51,7 @@ Les sauvegardes protègent vos données contre les pertes accidentelles, les pan
 
 ---
 
-#### Quels outils utiliser ?
+## Quels outils utiliser ?
 
 1. **Services cloud sécurisés :**
    - **Exemples** : Google Drive (version professionnelle), Microsoft OneDrive, ou ProtonDrive (chiffré).
@@ -64,7 +65,7 @@ Les sauvegardes protègent vos données contre les pertes accidentelles, les pan
 
 ---
 
-#### Les avantages de bonnes sauvegardes et d’une gestion rigoureuse :
+## Les avantages de bonnes sauvegardes et d’une gestion rigoureuse :
 - **Réduction des risques** : Vous êtes préparé à toute perte ou attaque.
 - **Conformité juridique** : Vous respectez les obligations en matière de conservation et de protection des données sensibles.
 - **Continuité d’activité** : En cas d’incident, vous pouvez rapidement restaurer vos données et limiter les interruptions.
