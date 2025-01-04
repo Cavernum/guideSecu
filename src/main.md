@@ -3,7 +3,7 @@ title: Guide de la Cybersécurité en milieu professionnel
 #subtitle: 
 author: 
   zkBolo
-date: janvier 2025
+date: Janvier 2025
 lang: fr-FR
 
 note_type: reference
