@@ -1,6 +1,6 @@
 ---
-title: Guide de la Cybersécurité
-subtitle: Destinataire
+title: Guide de la Cybersécurité en milieu professionnel
+#subtitle: 
 author: 
   zkBolo
 date: janvier 2025
@@ -29,7 +29,7 @@ toc-own-page: true
 
 abstract-title: Introduction
 abstract: |
-  Guide d'introduction à l'hygiène numérique de base dans le monde professsionnel
+  Ce guide propose des pratiques de cybersécurité simples et efficaces à destination des professionnels, notamment des avocats, afin de protéger leurs données sensibles et leurs communications. Il fournit des conseils pratiques pour sécuriser les mots de passe, les appareils, les communications par email et mobile, ainsi que des recommandations pour se prémunir contre les attaques de phishing et garantir la sécurité des données grâce aux sauvegardes.
 ---
 
 !include ./introduction.md
