@@ -1,12 +1,12 @@
 # 3. **Sécurisation physique des appareils**
 
-## **Pourquoi la sécurisation physique des appareils est-elle importante ?**
+## Pourquoi la sécurisation physique des appareils est-elle importante ?
 
 Les cybermenaces ne proviennent pas uniquement du réseau ou d'internet : un appareil perdu, volé ou mal protégé physiquement peut compromettre toutes vos données sensibles. En tant qu'avocat, vos ordinateurs, téléphones et autres appareils contiennent des informations confidentielles qu’il est crucial de protéger contre les accès non autorisés. La sécurisation physique est une première ligne de défense essentielle.
 
 ---
 
-## **Bonnes pratiques pour la sécurisation physique :**
+## Bonnes pratiques pour la sécurisation physique :
 
 1. **Verrouillez vos sessions dès que vous vous éloignez**
    - **Verrouillez l’écran** : Lorsque vous quittez votre poste, même pour quelques minutes, verrouillez votre session. Pour ce faire, utilisez les raccourcis :
@@ -51,7 +51,7 @@ Les cybermenaces ne proviennent pas uniquement du réseau ou d'internet : un app
 
 ---
 
-## **Exemple de scénarios sécurisés :**
+## Exemple de scénarii sécurisés :
 
 - **Au bureau** : 
   Un avocat quitte son poste pour une réunion et verrouille son ordinateur à l’aide du raccourci `Windows + L`. Son ordinateur portable est fixé à son bureau avec un câble antivol, et le reste des équipements est rangé dans une armoire fermée.
