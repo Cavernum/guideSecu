@@ -29,15 +29,13 @@ Dans un contexte professionnel, la cybersécurité est particulièrement importa
 
 ## Ce que ce guide vous apportera :
 - Une compréhension claire des principales menaces qui pèsent sur vos données et vos communications.
-- Des outils et des pratiques simples à mettre en œuvre pour sécuriser vos activités professionnelles.
+- Des outils et des pratiques à mettre en œuvre pour sécuriser vos activités professionnelles.
 - Des stratégies pour réagir en cas d’incident de sécurité.
 
 ---
 
 ## Pourquoi ce guide est adapté à vous ?
 
-Nous savons que les avocats ne sont pas nécessairement experts en technologies ou en sécurité informatique. Ce guide a été conçu pour être accessible, avec des explications simples et des étapes faciles à suivre. Que vous soyez un avocat travaillant seul ou au sein d’un cabinet, ces bonnes pratiques vous permettront de protéger vos données et vos activités juridiques contre les cybermenaces.
+Nous savons que les avocats ne sont pas nécessairement experts en technologies ou en sécurité informatique. Ce guide a été conçu pour être accessible, avec des explications simples et des étapes faciles à suivre. Que vous soyez un avocat travaillant seul ou au sein d’un cabinet, ces bonnes pratiques vous permettront de renforcer la sécurité de vos données et vos activités juridiques contre les cybermenaces.
 
 Protéger vos informations, c'est aussi protéger vos clients et garantir la pérennité de votre cabinet.
-
-... (le reste du guide continue avec les autres chapitres) ...

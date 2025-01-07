@@ -31,7 +31,7 @@ Les cybermenaces ne proviennent pas uniquement du réseau ou d'internet : un app
    - **Effacement à distance** : Configurez vos appareils pour pouvoir effacer toutes les données à distance en cas de vol ou de perte, afin de protéger les informations sensibles.
 
 5. **Renforcez la sécurité physique dans vos locaux**
-   - **Accès contrôlé aux bureaux** : Limitez l'accès physique à vos locaux, à minima avec des portes renforcées et des clés sécurisées nominatives. L'idéal est d'installer des badges ou des codes d'accès. Seules les personnes autorisées doivent pouvoir entrer dans les zones contenant des appareils ou dossiers sensibles.
+   - **Accès contrôlé aux bureaux** : Limitez l'accès physique à vos locaux, à minima avec des portes renforcées et des clés sécurisées nominatives. Vous pouvez également instaurer des accès par badges ou des codes d'accès. Seules les personnes autorisées doivent pouvoir entrer dans les zones contenant des appareils ou dossiers sensibles.
    - **Caméras de sécurité** : Installez des caméras dans les zones stratégiques pour surveiller et dissuader les intrusions.
    - **Systèmes d'alarme** : Mettez en place un système d’alarme pour protéger vos locaux en dehors des heures d’ouverture.
 
