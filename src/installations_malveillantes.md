@@ -10,7 +10,7 @@ Les installations malveillantes sont des logiciels (ou malwares) qui peuvent inf
 
 1. **Téléchargements depuis des sites non fiables :** Les logiciels piratés ou téléchargés depuis des plateformes non officielles contiennent souvent des malwares intégrés.
 2. **Pièces jointes dans les emails suspects :** Les fichiers envoyés par des cybercriminels dans des emails de phishing peuvent contenir des virus.
-3. **Exécution automatique de fichiers sur des périphériques USB :** Les clés USB infectées peuvent automatiquement exécuter des malwares lorsqu'elles sont insérées.
+3. **Exécution automatique de fichiers sur des périphériques USB :** Les clés USB infectées peuvent automatiquement exécuter des malwares lorsqu'elles sont insérées sur un support informatique.
 4. **Publicités malveillantes (malvertising) :** Cliquer sur des publicités ou des pop-ups en ligne peut déclencher des téléchargements involontaires de logiciels malveillants.
 5. **Liens compromis dans les messageries instantanées ou sur les réseaux sociaux :** Ces liens redirigent souvent vers des sites web piégés contenant des malwares.
 
