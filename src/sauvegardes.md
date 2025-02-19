@@ -24,7 +24,7 @@ Les sauvegardes protègent vos données contre les pertes accidentelles, les pan
    - Assurez-vous que toutes vos données importantes, y compris vos emails, dossiers juridiques et fichiers clients, sont incluses dans les sauvegardes.
 
 3. **Chiffrez vos sauvegardes :**
-   - Utilisez un logiciel de chiffrement pour protéger vos sauvegardes. Ainsi, même si un support est volé, les données resteront inaccessibles sans la clé de chiffrement.
+   - Utilisez un logiciel (VeraCrypt, 7zip,...) de chiffrement pour protéger vos sauvegardes. Ainsi, même si un support est volé, les données resteront inaccessibles sans la clé de chiffrement.
 
 4. **Testez vos sauvegardes :**
    - Vérifiez régulièrement que vos sauvegardes fonctionnent correctement et que les fichiers peuvent être restaurés en cas de besoin.
