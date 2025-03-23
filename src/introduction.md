@@ -5,12 +5,12 @@
 
 La cybersécurité désigne l’ensemble des pratiques, outils et technologies visant à protéger les systèmes informatiques, les réseaux et les données contre les attaques, les intrusions et les accès non autorisés. Elle joue un rôle essentiel pour préserver la confidentialité, l'intégrité et la disponibilité des informations.
 
-Dans un contexte professionnel, la cybersécurité est particulièrement importante pour des avocats, car vous êtes souvent les gardiens d’informations extrêmement sensibles, telles que des données confidentielles de vos clients, des contrats, ou des preuves juridiques.
+Dans un contexte professionnel, la cybersécurité est particulièrement importante pour des salariées, car vous êtes souvent les gardiens d’informations extrêmement sensibles, telles que des données confidentielles de vos clients, des contrats, ou des données bancaires.
 
-## Pourquoi la cybersécurité est-elle essentielle pour un avocat ?
+## Pourquoi la cybersécurité est-elle essentielle pour un salarié ?
 
 - **Protection des données confidentielles** : Vos clients vous confient des informations sensibles. Une fuite de données pourrait entraîner de graves conséquences juridiques et financières.
-- **Prévention des cyberattaques** : Les cabinets d'avocats sont souvent ciblés par les cybercriminels, car ils manipulent des données critiques et précieuses.
+- **Prévention des cyberattaques** : Les salariés sont souvent ciblés par les cybercriminels, car ils manipulent des données critiques et précieuses.
 - **Maintien de la réputation** : Une atteinte à la sécurité peut nuire à la crédibilité de votre cabinet et éroder la confiance de vos clients.
 - **Respect des lois et réglementations** : La législation, comme le RGPD en Europe, impose des exigences strictes en matière de protection des données personnelles. Une violation peut entraîner des sanctions lourdes.
 
@@ -36,6 +36,6 @@ Dans un contexte professionnel, la cybersécurité est particulièrement importa
 
 ## Pourquoi ce guide est adapté à vous ?
 
-Nous savons que les avocats ne sont pas nécessairement experts en technologies ou en sécurité informatique. Ce guide a été conçu pour être accessible, avec des explications simples et des étapes faciles à suivre. Que vous soyez un avocat travaillant seul ou au sein d’un cabinet, ces bonnes pratiques vous permettront de renforcer la sécurité de vos données et vos activités juridiques contre les cybermenaces.
+Nous savons que les salariés ne sont pas nécessairement experts en technologies ou en sécurité informatique. Ce guide a été conçu pour être accessible, avec des explications simples et des étapes faciles à suivre. Que vous soyez un salarié travaillant seul ou au sein d’une agence, ces bonnes pratiques vous permettront de renforcer la sécurité de vos données et vos activités commerciales contre les cybermenaces.
 
-Protéger vos informations, c'est aussi protéger vos clients et garantir la pérennité de votre cabinet.
+Protéger vos informations, c'est aussi protéger vos clients et garantir la pérennité de votre agence.

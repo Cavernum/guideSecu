@@ -3,7 +3,7 @@
 
 ## Pourquoi la formation est essentielle ?
 
-Le domaine de la cybersécurité évolue constamment. Les cybercriminels développent de nouvelles techniques pour contourner les protections existantes, et les outils de sécurité se perfectionnent régulièrement pour contrer ces menaces. En tant qu'avocat, vous devez rester à jour sur les meilleures pratiques pour protéger les données sensibles de vos clients et éviter des failles qui pourraient nuire à votre activité.
+Le domaine de la cybersécurité évolue constamment. Les cybercriminels développent de nouvelles techniques pour contourner les protections existantes, et les outils de sécurité se perfectionnent régulièrement pour contrer ces menaces. En tant que salarié, vous devez rester à jour sur les meilleures pratiques pour protéger les données sensibles de vos clients et éviter des failles qui pourraient nuire à votre activité.
 
 ---
 
@@ -18,17 +18,17 @@ Le domaine de la cybersécurité évolue constamment. Les cybercriminels dévelo
    - Suivez les actualités sur des sites spécialisés comme celui de l’**ANSSI** (Agence nationale de la sécurité des systèmes d'information) ou de **Cybermalveillance.gouv.fr**.
    - Lisez des blogs ou des newsletters pour rester informé des nouvelles menaces et des solutions.
 
-3. **Organiser des formations au sein de votre cabinet :**
+3. **Organiser des formations au sein de votre agence :**
    - Faites intervenir des experts pour former votre équipe sur les bonnes pratiques en cybersécurité.
    - Simulez des attaques comme le phishing pour sensibiliser vos collaborateurs et améliorer leur vigilance.
 
 4. **Se certifier en cybersécurité :**
    - Pour une compréhension plus approfondie, envisagez des certifications comme le **SecNumAcadémie** de l’ANSSI, accessible en ligne et gratuit.
-   - Explorez d'autres certifications reconnues comme le **Cybersecurity Awareness Certification** ou des formations adaptées au secteur juridique.
+   - Explorez d'autres certifications reconnues comme le **Cybersecurity Awareness Certification** ou des formations adaptées au secteur.
 
 5. **Apprendre à utiliser les nouveaux outils sécurisés :**
    - Familiarisez-vous avec les nouvelles solutions de messagerie chiffrée, de gestion des mots de passe, et de sauvegarde sécurisée.
-   - Testez des outils innovants régulièrement pour identifier ceux qui peuvent améliorer la sécurité de votre cabinet.
+   - Testez des outils innovants régulièrement pour identifier ceux qui peuvent améliorer la sécurité de votre agence.
 
 ---
 
@@ -48,7 +48,7 @@ Le domaine de la cybersécurité évolue constamment. Les cybercriminels dévelo
 
 ## L’importance d’une culture de cybersécurité :
 
-La cybersécurité ne doit pas être perçue comme une contrainte, mais comme un élément essentiel de votre pratique professionnelle. Sensibiliser votre équipe et maintenir une formation continue renforce votre vigilance collective et réduit les risques pour votre cabinet. Une équipe bien formée est votre première ligne de défense contre les cyberattaques.
+La cybersécurité ne doit pas être perçue comme une contrainte, mais comme un élément essentiel de votre pratique professionnelle. Sensibiliser votre équipe et maintenir une formation continue renforce votre vigilance collective et réduit les risques pour votre agence. Une équipe bien formée est votre première ligne de défense contre les cyberattaques.
 
 ---
 

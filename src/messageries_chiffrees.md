@@ -2,7 +2,7 @@
 
 ## Pourquoi utiliser une messagerie chiffrée ?
 
-Les échanges par messagerie contiennent souvent des informations sensibles, notamment des discussions relatives à des affaires juridiques ou des données personnelles de vos clients. Une messagerie classique peut être vulnérable à des interceptions ou des piratages. En utilisant une application de messagerie chiffrée, vous garantissez la confidentialité et la sécurité de vos communications.
+Les échanges par messagerie contiennent souvent des informations sensibles, notamment des discussions relatives à des affaires commerciales ou des données personnelles de vos clients. Une messagerie classique peut être vulnérable à des interceptions ou des piratages. En utilisant une application de messagerie chiffrée, vous garantissez la confidentialité et la sécurité de vos communications.
 
 ---
 
@@ -12,7 +12,7 @@ Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinat
 
 ---
 
-## Applications recommandées pour les avocats :
+## Applications recommandées pour les salariés :
 
 1. **Signal** :
    - Chiffrement de bout en bout par défaut.
@@ -40,7 +40,7 @@ Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinat
 ## Bonnes pratiques pour l’utilisation de messageries chiffrées :
 
 1. **Utilisez des applications chiffrées pour les communications sensibles** :
-   - Préférez une messagerie chiffrée pour tout échange contenant des informations confidentielles, comme des documents juridiques, des coordonnées bancaires ou des avis professionnels.
+   - Préférez une messagerie chiffrée pour tout échange contenant des informations confidentielles, comme des documents financiers, des coordonnées bancaires ou des avis professionnels.
 
 2. **Activez les options de sécurité avancées** :
    - **Messages éphémères** : Configurez vos messages pour qu’ils soient automatiquement supprimés après un délai défini.
@@ -74,4 +74,4 @@ Le chiffrement de bout en bout signifie que seuls l’expéditeur et le destinat
 
 ## Conclusion
 
-Adopter une messagerie chiffrée est une étape essentielle pour sécuriser vos communications professionnelles en tant qu’avocat. En suivant ces bonnes pratiques, vous réduirez les risques de fuite d’informations et protégerez efficacement la confidentialité de vos échanges avec vos clients et collègues. Optez pour une application adaptée à vos besoins, sensibilisez vos interlocuteurs et sécurisez vos appareils pour garantir une utilisation optimale.
+Adopter une messagerie chiffrée est une étape essentielle pour sécuriser vos communications professionnelles en tant que salarié. En suivant ces bonnes pratiques, vous réduirez les risques de fuite d’informations et protégerez efficacement la confidentialité de vos échanges avec vos clients et collègues. Optez pour une application adaptée à vos besoins, sensibilisez vos interlocuteurs et sécurisez vos appareils pour garantir une utilisation optimale.

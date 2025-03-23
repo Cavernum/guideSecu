@@ -32,7 +32,7 @@ Les mots de passe sont la première ligne de défense contre les cyberattaques. 
    - **Protégez les mots de passe de manière sécurisée** : Si vous devez absolument partager un mot de passe, assurez-vous que la transmission se fait de manière sécurisée. Évitez de le transmettre par email ou par des moyens non sécurisés.
 
 7. **Vérifiez les paramètres de sécurité de vos comptes**
-   - **Révisez les paramètres de sécurité de vos comptes importants** : Vérifiez régulièrement les paramètres de sécurité de vos comptes sensibles (email, cloud, outils juridiques) pour vous assurer qu'ils sont bien protégés. Activez les alertes de connexion et vérifiez les dernières connexions pour détecter toute activité suspecte.
+   - **Révisez les paramètres de sécurité de vos comptes importants** : Vérifiez régulièrement les paramètres de sécurité de vos comptes sensibles (email, cloud, outils commerciaux) pour vous assurer qu'ils sont bien protégés. Activez les alertes de connexion et vérifiez les dernières connexions pour détecter toute activité suspecte.
    - **Surveillez les comptes à risque** : Portez une attention particulière aux comptes qui stockent des informations sensibles, telles que vos emails professionnels, les applications de gestion de dossiers clients, ou les comptes bancaires.
 
 ---

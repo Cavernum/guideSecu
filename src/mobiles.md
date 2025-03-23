@@ -2,7 +2,7 @@
 
 ## Pourquoi sécuriser vos appareils mobiles ?
 
-Les appareils mobiles, tels que les smartphones et les tablettes, contiennent souvent des informations sensibles : emails professionnels, documents juridiques, contacts clients, etc. En cas de perte, de vol ou d’attaque, ces appareils peuvent devenir une porte d’entrée pour des cybercriminels. Leur sécurisation est donc essentielle pour protéger vos données et celles de vos clients.
+Les appareils mobiles, tels que les smartphones et les tablettes, contiennent souvent des informations sensibles : emails professionnels, documents commerciaux, contacts clients, etc. En cas de perte, de vol ou d’attaque, ces appareils peuvent devenir une porte d’entrée pour des cybercriminels. Leur sécurisation est donc essentielle pour protéger vos données et celles de vos clients.
 
 ---
 
@@ -58,7 +58,7 @@ Les appareils mobiles, tels que les smartphones et les tablettes, contiennent so
 
 ## Exemple concret : Que faire si votre appareil est perdu ou volé ?
 1. **Localisez l’appareil** : Utilisez les outils de localisation pour tenter de retrouver l’appareil.
-2. **Modifiez vos mots de passe** : Changez immédiatement les mots de passe de vos comptes importants (email, applications juridiques, cloud).
+2. **Modifiez vos mots de passe** : Changez immédiatement les mots de passe de vos comptes importants (email, applications commerciales, cloud).
 3. **Effacez les données à distance** : Si vous ne pouvez pas récupérer l’appareil, utilisez les outils de suppression à distance pour effacer toutes les données.
 4. **Signalez l’incident** : Déclarez la perte ou le vol aux autorités et, si nécessaire, à votre assurance.
 

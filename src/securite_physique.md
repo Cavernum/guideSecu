@@ -42,11 +42,11 @@ Les cybermenaces ne proviennent pas uniquement du réseau ou d'internet : un app
    - **Clés USB sécurisées** : Utilisez uniquement des clés USB avec chiffrement intégré pour stocker ou transférer des informations sensibles.
 
 7. **Sensibilisez votre équipe**
-   - **Formation du personnel** : Assurez-vous que tous les membres de votre cabinet comprennent l'importance de la sécurisation physique des appareils et suivent les bonnes pratiques. Organisez des formations régulières.
+   - **Formation du personnel** : Assurez-vous que tous les membres de votre agence comprennent l'importance de la sécurisation physique des appareils et suivent les bonnes pratiques. Organisez des formations régulières.
    - **Règles internes** : Mettez en place une politique claire qui impose des pratiques sécuritaires, comme verrouiller les appareils, ranger les équipements dans des zones sécurisées, et signaler tout appareil manquant immédiatement.
 
 8. **Maintenance et inventaire des appareils**
-   - **Tenue d’un inventaire** : Maintenez une liste détaillée de tous les appareils utilisés dans le cabinet (ordinateurs, téléphones, tablettes, clés USB, etc.), avec des informations sur leur emplacement, leur utilisateur et leur statut.
+   - **Tenue d’un inventaire** : Maintenez une liste détaillée de tous les appareils utilisés dans le agence (ordinateurs, téléphones, tablettes, clés USB, etc.), avec des informations sur leur emplacement, leur utilisateur et leur statut.
    - **Suivi des prêts** : Si un appareil est prêté, documentez les dates et assurez-vous qu’il est rendu dans les délais prévus.
 
 ---

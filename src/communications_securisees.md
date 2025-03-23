@@ -2,7 +2,7 @@
 
 ## Pourquoi sécuriser vos emails ?
 
-Les emails sont un moyen de communication central dans le travail d’un avocat, mais ils peuvent être facilement interceptés, piratés ou exploités par des cybercriminels. Les risques incluent le vol de données sensibles, l’usurpation d’identité, ou encore la propagation de logiciels malveillants via des liens ou pièces jointes frauduleuses. Sécuriser vos échanges par email est donc essentiel pour garantir la confidentialité de vos communications avec vos clients et partenaires.
+Les emails sont un moyen de communication central dans les activités professionnelles, mais ils peuvent être facilement interceptés, piratés ou exploités par des cybercriminels. Les risques incluent le vol de données sensibles, l’usurpation d’identité, ou encore la propagation de logiciels malveillants via des liens ou pièces jointes frauduleuses. Sécuriser vos échanges par email est donc essentiel pour garantir la confidentialité de vos communications avec vos clients et partenaires.
 
 ---
 
@@ -44,7 +44,7 @@ Les emails sont un moyen de communication central dans le travail d’un avocat,
 - **Adoptez des solutions alternatives** : Pour les informations extrêmement sensibles, préférez des plateformes sécurisées d’échange de fichiers comme **Tresorit** ou **WeTransfer Pro Secure**.
 
 10. Sensibilisez votre équipe aux risques liés aux emails
-- **Formez vos collaborateurs** : Tous les membres du cabinet doivent être formés pour reconnaître les emails suspects, éviter les erreurs courantes (ex. : cliquer sur des liens non vérifiés) et comprendre les bonnes pratiques de sécurité.
+- **Formez vos collaborateurs** : Tous les membres de l'agence doivent être formés pour reconnaître les emails suspects, éviter les erreurs courantes (ex. : cliquer sur des liens non vérifiés) et comprendre les bonnes pratiques de sécurité.
 - **Mettez en place une procédure de signalement** : Si un membre de l’équipe reçoit un email suspect, définissez une procédure claire pour le signaler rapidement et éviter des erreurs coûteuses.
 
 ---
@@ -59,4 +59,4 @@ Les emails sont un moyen de communication central dans le travail d’un avocat,
 
 ## Conclusion
 
-Protéger vos communications par email est essentiel pour garantir la confidentialité et l’intégrité de vos échanges professionnels. En suivant ces bonnes pratiques, vous réduirez significativement les risques liés aux cyberattaques et renforcerez la sécurité de votre cabinet. Les emails doivent être traités comme des canaux sensibles nécessitant vigilance et précautions constantes.
+Protéger vos communications par email est essentiel pour garantir la confidentialité et l’intégrité de vos échanges professionnels. En suivant ces bonnes pratiques, vous réduirez significativement les risques liés aux cyberattaques et renforcerez la sécurité de votre agence. Les emails doivent être traités comme des canaux sensibles nécessitant vigilance et précautions constantes.

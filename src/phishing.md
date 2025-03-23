@@ -2,7 +2,7 @@
 
 ## Pourquoi le phishing est-il dangereux ?
 
-Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces, car il cible directement les utilisateurs en les incitant à révéler leurs informations sensibles, comme leurs mots de passe, coordonnées bancaires, ou autres données confidentielles. Les avocats sont particulièrement ciblés en raison de la nature sensible des informations qu'ils traitent. Les attaques de phishing peuvent se présenter sous forme d'emails, de messages instantanés, ou même d'appels téléphoniques.
+Le phishing est l'une des cyberattaques les plus courantes et les plus efficaces, car il cible directement les utilisateurs en les incitant à révéler leurs informations sensibles, comme leurs mots de passe, coordonnées bancaires, ou autres données confidentielles. Les salariés sont ciblés en raison de la nature sensible des informations qu'ils traitent. Les attaques de phishing peuvent se présenter sous forme d'emails, de messages instantanés, ou même d'appels téléphoniques.
 
 ---
 

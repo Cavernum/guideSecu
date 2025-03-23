@@ -78,4 +78,4 @@ Les installations malveillantes sont des logiciels (ou malwares) qui peuvent inf
 
 ## Conclusion
 
-Les malwares représentent un risque important pour la sécurité des avocats et de leurs données sensibles. En adoptant ces bonnes pratiques et en sensibilisant votre équipe, vous réduirez considérablement les risques d'infection par des logiciels malveillants. La vigilance et l'utilisation d'outils adaptés sont les clés pour protéger efficacement votre cabinet contre ces menaces.
+Les malwares représentent un risque important pour la sécurité de votre agence et des données sensibles qu'elle héberge. En adoptant ces bonnes pratiques et en sensibilisant votre équipe, vous réduirez considérablement les risques d'infection par des logiciels malveillants. La vigilance et l'utilisation d'outils adaptés sont les clés pour protéger efficacement votre cabinet contre ces menaces.

@@ -2,12 +2,12 @@
 
 ## Pourquoi les sauvegardes sont essentielles ?
 
-Les sauvegardes protègent vos données contre les pertes accidentelles, les pannes matérielles, ou les attaques malveillantes telles que les ransomwares. En tant qu’avocat, perdre vos données peut signifier la perte d’informations sensibles concernant vos clients, des dossiers juridiques cruciaux, ou des preuves électroniques.
+Les sauvegardes protègent vos données contre les pertes accidentelles, les pannes matérielles, ou les attaques malveillantes telles que les ransomwares. En tant que professionnels, perdre vos données peut signifier la perte d’informations sensibles concernant vos clients, des dossiers, ou des commandes.
 
 ## Risques en cas d’absence de sauvegardes :
 
 - **Perte irréversible de données** : En cas d’attaque par ransomware ou de panne matérielle, vos données pourraient être définitivement perdues.
-- **Interruption d’activité** : Un cabinet d’avocats sans accès à ses fichiers ne peut pas fonctionner efficacement, ce qui peut causer des retards ou des pertes de clients.
+- **Interruption d’activité** : Une agence sans accès à ses fichiers ne peut pas fonctionner efficacement, ce qui peut causer des retards ou des pertes de clients.
 - **Atteinte à la réputation** : L’incapacité à protéger ou récupérer des données pourrait nuire à votre image professionnelle.
 
 ---
@@ -21,7 +21,7 @@ Les sauvegardes protègent vos données contre les pertes accidentelles, les pan
 
 2. **Planifiez des sauvegardes régulières :**
    - Automatisez les sauvegardes quotidiennes ou hebdomadaires pour éviter de dépendre d’un processus manuel.
-   - Assurez-vous que toutes vos données importantes, y compris vos emails, dossiers juridiques et fichiers clients, sont incluses dans les sauvegardes.
+   - Assurez-vous que toutes vos données importantes, y compris vos emails, dossiers commerciaux et fichiers clients, sont incluses dans les sauvegardes.
 
 3. **Chiffrez vos sauvegardes :**
    - Utilisez un logiciel (VeraCrypt, 7zip,...) de chiffrement pour protéger vos sauvegardes. Ainsi, même si un support est volé, les données resteront inaccessibles sans la clé de chiffrement.
